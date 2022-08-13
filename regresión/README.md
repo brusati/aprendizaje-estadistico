@@ -1,3 +1,5 @@
+# regresión - predicción de índice de masa corporal
+
 Se cuenta con el dataset `diabetes2.csv` el cual pertenece al National Institute of Diabetes and Digestive and Kidney Diseases. Se creó con el objetivo de predecir si un paciente tiene o no diabetes, basado en las siguientes medidas:
 
 - Pregnancies: número de embarazos
